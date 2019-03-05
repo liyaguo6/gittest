@@ -4,4 +4,5 @@ sex = man
 date = 2019.03.05
 age = 28
 career = engineer
-naitionality = China
+nationality = China
+birthdate = 1990/08/24

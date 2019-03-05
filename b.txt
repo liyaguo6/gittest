@@ -1,0 +1,4 @@
+name = 龚珍珍
+age = 26
+sex =female
+career = pm
