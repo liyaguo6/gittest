@@ -2,3 +2,4 @@ name = 龚珍珍
 age = 26
 sex =female
 career = pm
+hobby = 撒娇
