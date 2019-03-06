@@ -6,3 +6,4 @@ age = 28
 career = engineer
 nationality = China
 birthdate = 1990/08/24
+school = jufe
