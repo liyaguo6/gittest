@@ -2,3 +2,5 @@ name = 龚珍珍
 age = 26
 sex =female
 career = pm
+hobby = 睡觉
+salary =15w
