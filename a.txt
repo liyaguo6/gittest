@@ -7,3 +7,4 @@ career = engineer
 nationality = China
 birthdate = 1990/08/24
 hobby = program
+salary = 15W
