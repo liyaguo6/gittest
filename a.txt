@@ -9,3 +9,4 @@ birthdate = 1990/08/24
 hobby = program
 salary = 15W
 HOME = ANHUI
+tel = 15855148527
