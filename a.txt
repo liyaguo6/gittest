@@ -7,3 +7,8 @@ career = engineer
 nationality = China
 birthdate = 1990/08/24
 school = jufe
+hobby = program
+salary = 15W
+HOME = ANHUI
+tel = 15855148527
+
